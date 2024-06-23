@@ -1,4 +1,4 @@
-# K-SVD and Autoencode
+# K-SVD and Autoencode (Medical Image denoising)
 
 
 Comparing K-SVD and autoencoder to denoise medical image.
